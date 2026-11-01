@@ -103,7 +103,7 @@ The final Excel dashboard presents:
 - Total Sales: 14,956,982
 - Total Profit: 3,747,121.20
 - Total Orders: 9,994
-- Average Sales per Order: approximately 1,496.60
+- Average Sales per Order: approximately 1,496.49
 - West was the highest-performing region by both sales and profit.
 - September 2018 recorded the highest monthly sales at 705,680.
 - Sales generally increased across the 2015–2018 period.
